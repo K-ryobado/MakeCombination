@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">組み合わせ作成</string>
+    <string name="top_text">メンバー設定</string>
+    <string name="member_btn">メンバー設定</string>
+    <string name="comb_btn">組み合わせ設定</string>
+    <string name="top_text_setting">組み合わせ設定</string>
+    <string name="make_btn">組み合わせ作成</string>
+    <string name="fixed">固定ペア：</string>
+    <string name="courtNumber">コート数：</string>
+    <string name="rest">[優先]休憩・試合：</string>
+    <string name="rest_str">休憩</string>
+    <string name="motion_str">試合</string>
+    <string name="mix_str">混合ダブルスのみ</string>
+    <string name="top_text_make">組み合わせ一覧</string>
+    <string name="rest_match_setting">休憩・試合設定</string>
+    <string name="fixedPairs_setting">固定ペア設定</string>
+    <string name="contact">お問い合わせ</string>
+    <string name="alert">注意</string>
+    <string name="anonymous">名無しさん</string>
+    <string name="man">男性</string>
+    <string name="woman">女性</string>
+    <string name="valid">有効</string>
+    <string name="invalid">無効</string>
+    <string name="add">追加</string>
+    <string name="delete">削除</string>
+    <string name="msg1">4人以上のメンバーを入力してください。</string>
+    <string name="msg2"> は既に登録されています。
+        同じ名前を登録することはできません。</string>
+    <string name="msg3">有効なメンバーが4人未満です。組み合わせを作成できません。</string>
+    <string name="msg4"> さんは休憩メンバーに設定されているため
+        固定ペアに設定することはできません。</string>
+    <string name="msg5"></string>
+    <string name="msg6"></string>
+    <string name="msg7"></string>
+    <string name="msg8"></string>
+    <string name="msg9"></string>
+    <string name="msg10"></string>
+</resources>

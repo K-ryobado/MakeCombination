@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Make Draw</string>
+    <string name="top_text">Member Setting</string>
+    <string name="member_btn">Member Setting</string>
+    <string name="comb_btn">Draw Setting</string>
+    <string name="top_text_setting">Draw Setting</string>
+    <string name="make_btn">Make Draw</string>
+    <string name="fixed">Fixed Pair：</string>
+    <string name="courtNumber">Number Of Courts：</string>
+    <string name="rest">[Priority]Rest/Match ：</string>
+    <string name="rest_str">Rest</string>
+    <string name="motion_str">Match</string>
+    <string name="mix_str">Mixed Doubles Only</string>
+    <string name="top_text_make">Draw List</string>
+    <string name="rest_match_setting">Rest/Match Setting</string>
+    <string name="fixedPairs_setting">FixedPair Setting</string>
+    <string name="contact">Contact</string>
+    <string name="alert">Alert</string>
+    <string name="anonymous">Anonymous</string>
+    <string name="man">Man</string>
+    <string name="woman">Woman</string>
+    <string name="valid">valid</string>
+    <string name="invalid">invalid</string>
+    <string name="add">add</string>
+    <string name="delete">delete</string>
+    <string name="msg1">Please enter at least 4 members.</string>
+    <string name="msg2"> is already registered.
+        You cannot register the same name.</string>
+    <string name="msg3">There are less than 4 valid members. Unable to create combination.</string>
+    <string name="msg4"> is set as a break member
+        It cannot be set to a fixed pair.</string>
+    <string name="msg5"></string>
+    <string name="msg6"></string>
+    <string name="msg7"></string>
+    <string name="msg8"></string>
+    <string name="msg9"></string>
+    <string name="msg10"></string>
+</resources>
